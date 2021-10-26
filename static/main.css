@@ -1,0 +1,58 @@
+body
+{
+	background:url(3.jpg)no-repeat center fixed;
+	background-size:cover;
+	-moz-background-size:cover;
+	font-family:arial;
+	margin:0 auto;
+	margin-top:8px;
+	width:75%;
+	
+	
+}
+h1
+{
+		text-align:center;
+		color:white;
+		text-shadow:2px 2px 2px black;
+		letter-spacing:12px;
+}
+.img1
+{
+	width:96.6%;
+	margin-top:0px;
+	border-radius:0px 0px 0px 0px;
+	box-shadow:3px 0px 25px black;
+	height:240px;
+}
+.div1
+{
+		width:96.6%;
+		background:#ccc;
+		border-radius:0px 0px 10px 10px;
+		box-shadow:3px 3px 25px black;
+		margin-top:1px;
+		margin-bottom:20px;
+		padding:20px;
+		float:left;
+		
+}
+
+.img2
+{
+	padding:0px;
+	width:400px;
+	float:left;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:2px 0px 10px;
+	margin-right:20px;
+
+	
+	
+}
+
+input[type="text"] 
+{
+    height: 10px;
+    width: 80px;
+    }
